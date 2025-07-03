@@ -1,4 +1,4 @@
-# Gorrilla Tag Moderator List!!!!
+# Gorrilla Tag Moderator List
 
 |Name|PlayFab ID|Rank|
 |------|----|----|
