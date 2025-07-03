@@ -1,6 +1,6 @@
 # Gorilla Tag Moderator List
 
-# Actual Has Stuff
+# Actually Has Stuff
 
 |Name|PlayFab ID|Rank|
 |------|----|----|
@@ -42,4 +42,4 @@
 |CZANGILOS|DBB0E9A61BAD6E8|Known Modder|
 |CZANGILOS|F2398F5464F134D2|Known Modder|
 |CZANGILOS|8E47F5BEB63D0E11|Known Modder|
-|CZANGILOS;C0C8B0C01DB4044D|Known Modder|
+|CZANGILOS|C0C8B0C01DB4044D|Known Modder|
