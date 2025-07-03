@@ -10,7 +10,7 @@
 |ELLIOT|7FB16B1EDEB71A4C|Finger Painter & Illustrator (playfab id is known for resetting)|
 |BODA|AAB44BFD0BA34829|Forest Guide|
 |ERIK1515|378D7E14A11734FF|Finger Painter|
-|JMANCURLY|None|Finger Painter and |
+|JMANCURLY|None|Finger Painter and Illustrator|
 |TTTPIG|None|Forest Guide|
 |JOLYNE|None|Finger Painter|
 |V3NISH|2CDCB11A891CED42|Forest Guide|
