@@ -1,4 +1,4 @@
-# Gorrill Taggers Runners 63fdd Doxxer JSON Pastebin ON DA BIN BOI List!!!!
+# Gorrilla Tag Moderator List!!!!
 
 |Name|PlayFab ID|Rank|
 |------|----|----|
