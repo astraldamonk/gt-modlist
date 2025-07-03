@@ -1,4 +1,4 @@
-# Gorrilla Tag Moderator List
+# Gorilla Tag Moderator List
 
 |Name|PlayFab ID|Rank|
 |------|----|----|
@@ -15,8 +15,8 @@
 |HEADCHEF|D934EB5C898ED33F|Moderator & Finger Painter|
 |JMANCURLY|None|Finger Painter and Illustrator|
 |JOLYNE|None|Finger Painter|
-|LEMMING|None|Another Axiom Founder|
 |K9|A04005517920EB0|Finger Painter and Illustrator|
+|LEMMING|None|Another Axiom Founder|
 |MAJORA|22B846B9F0FE312E|Finger Painter and Illustrator|
 |MAXO|6D519835077C073C|Finger Painter and Illustrator|
 |STYLEDSNAIL|D62C339F67B1B2A3|Finger Painter and Illustrator|
