@@ -19,6 +19,7 @@
 |K9|A04005517920EB0|Finger Painter and Illustrator|
 |SUPERXCLYDE|2FB3C7950D2159AF|Finger Painter (quest?)|
 |YOTTABITE|None|Forest Guide|
+|GREEPVR|None|Finger Painter|
 |FIIZZY|7D5FCC8E9B9D72CB|Finger Painter and Illustrator|
 |WISDOM|D62C339F67B1B2A3|Forest Guide|
 |STYLEDSNAIL|D62C339F67B1B2A3|Finger Painter and Illustrator|
