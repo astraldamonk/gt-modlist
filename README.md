@@ -1,6 +1,5 @@
 # gt-modlist
 
-sss
-|PlayFabID|Name|Rank|
+|UserID|Name|Rank|Additional notes|
 |------|----|----|----------------|
-|D934EB5C898ED33F|HEADCHEF|Moderator & Finger Painter|
+|D934EB5C898ED33F|HEADCHEF|Moderator & Finger Painter|none|
