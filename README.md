@@ -16,6 +16,7 @@
 |JOLYNE|None|Finger Painter|
 |K9|A04005517920EB0|Finger Painter and Illustrator|
 |LEMMING|None|Another Axiom Founder|
+|ZBR|B4E45E48C5CE0656|Forest Guide|
 |MAJORA|22B846B9F0FE312E|Finger Painter and Illustrator|
 |MAXO|6D519835077C073C|Finger Painter and Illustrator|
 |STYLEDSNAIL|D62C339F67B1B2A3|Finger Painter and Illustrator|
